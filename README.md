@@ -32,4 +32,4 @@ Double-click BUILD.bat
 No code injection. No memory reading. Safe to use. 
 Note this was vibe coded i did not make this
 
-<img src="imag.png" width="441" height="742" alt="image" />
+<img src="image.png" width="441" height="742" alt="image" />
